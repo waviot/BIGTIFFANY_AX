@@ -1,0 +1,2751 @@
+# depslib dependency file v1.0
+1507127683 source:c:\its\amr\software\axem\aqua_nbfi\src\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"defines.h"
+	"nbfi.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"time.h"
+	"nbfi_config.h"
+	"water5.h"
+	"karat/k213.h"
+	"rf.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1507031982 c:\its\amr\software\axem\aqua_nbfi\src\axradio\misc.h
+	<libmftypes.h>
+	"axradio.h"
+
+1507031982 c:\its\amr\software\axem\aqua_nbfi\src\axradio\axradio.h
+	<libmftypes.h>
+
+1507641341 c:\its\amr\software\axem\aqua_nbfi\src\defines.h
+
+1507035815 c:\its\amr\software\axem\aqua_nbfi\src\nbfi\nbfi.h
+	"defines.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	"easyax5043.h"
+	"axradio.h"
+	"misc.h"
+
+1507031982 c:\its\amr\software\axem\aqua_nbfi\src\axradio\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031982 c:\its\amr\software\axem\aqua_nbfi\src\application.h
+	"defines.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\misc\slip.h
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1507031982 c:\its\amr\software\axem\aqua_nbfi\src\hal\hal.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\misc\time.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"stdio.h"
+
+1507035815 c:\its\amr\software\axem\aqua_nbfi\src\nbfi\nbfi_config.h
+	"defines.h"
+
+1507035815 source:c:\its\amr\software\axem\aqua_nbfi\src\axradio\config_united.c
+	"easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"nbfi.h"
+	"rf.h"
+	"application.h"
+	"hal.h"
+
+1507031982 source:c:\its\amr\software\axem\aqua_nbfi\src\axradio\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1507031982 source:c:\its\amr\software\axem\aqua_nbfi\src\axradio\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	"misc.h"
+	"axradio.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1507031982 source:c:\its\amr\software\axem\aqua_nbfi\src\hal\hal.c
+	"hal.h"
+
+1507031983 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansi.c
+	"libmfcrc.h"
+
+1507031983 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansib.c
+	"libmfcrc.h"
+
+1507031983 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansimsb.c
+	"libmfcrc.h"
+
+1507031983 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansimsbb.c
+	"libmfcrc.h"
+
+1507031983 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc8ccittmsbb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc8onewireb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\crc8onewiremsbb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1init.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1rx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1rxbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1stop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1tx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1txbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1wrstr.c
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1wru16.c
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\builtsource\uart1wru32.c
+	"libmfuart1.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adccal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax8052.h
+	<axcompiler.h>
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfadc.h
+	"libmftypes.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adccalg.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adccalt.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adcseoffs00.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adcseoffs01.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adcseoffs10.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adctemp.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\adcuncal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax5043rclkdis.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax8052f143.h
+	<axcompiler.h>
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfradio.h
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax5043rclkena.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\bch3121dec.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfbch.h
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\bch3121decp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\bch3121enc.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\bch3121encp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\bch3121stab.c
+	"libmfbch.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\bch3121syn.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\chksgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\chksgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc32msbtable.c
+	"libmfcrc.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfcrc.h
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc32table.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc8.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc8b.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc8ccitt.c
+	"ax8052.h"
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc8ccittmsbtable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc8ccitttable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crc8msb.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crcccittmsbtable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\crcccitttable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\deepsleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\delay.c
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashcal.c
+	"ax8052.h"
+	"libmf.h"
+	"libmfflash.h"
+	"libmfcrc.h"
+	"libmfcalsector.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfdbglink.h
+	"libmftypes.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfflash.h
+	"libmftypes.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfuart.h
+	"libmftypes.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfcalsector.h
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashpgerase.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashread.c
+	"libmfflash.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashunlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashwait.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\flashwrite.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\fmemcpy.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\fmemset.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\graydec8.c
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\grayenc8.c
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\hweight16.c
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\hweight32.c
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\hweight8.c
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iorx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfuart0.h
+	"libmftypes.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfuart1.h
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iorxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iotx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libaxlcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iotxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrhex16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wrnum.h
+	"libmftypes.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmflcd.h
+	"libmftypes.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrhex32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrhexu16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrhexu32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrnum16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrnum32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowrstr.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowru16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\iowru32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdclear.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdclrdisp.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdinit.c
+	"ax8052.h"
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdsetpos.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdwrhexu16.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdwrhexu32.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdwrstr.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdwru16.c
+	"libmflcd.h"
+
+1507031985 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\lcdwru32.c
+	"libmflcd.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\offlpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfosc.h
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\offxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn15adv.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn15advtable.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn15out.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn15outtable.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn9.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn9bit.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn9bits.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn9buf.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn9byte.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\pn9table.c
+	"libmfcrc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiocomminit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiodefs.h
+	"ax8052f131.h"
+	"ax8052f142.h"
+	"ax8052f143.h"
+	"ax8052f151.h"
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax8052f131.h
+	<axcompiler.h>
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax8052f142.h
+	<axcompiler.h>
+
+1507031985 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\ax8052f151.h
+	<axcompiler.h>
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiocommslpexit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiodeepsleep.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiodswakecore.c
+	"libmftypes.h"
+	"radiodefs.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiord16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiord24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiord32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiordfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radioreset.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiowr16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiowr24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiowr32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\radiowrfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\random.c
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\resetcpu.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\rev8.c
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\setupcal.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\setuplpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\setupxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\sgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\sgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\signext12.c
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\signext16.c
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\signext20.c
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\signext24.c
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\sleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\sleepcont.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\standby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\uartinit.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\uartstop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\uarttimer.c
+	"ax8052.h"
+	"libmfuart.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wrnum16.c
+	"wrnum.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wrnum32.c
+	"wrnum.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt01rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wtimer.h
+	"libmfwtimer.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\libmfwtimer.h
+	"libmftypes.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt0adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt0addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt0curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt0rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt0setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt1adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt1addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt1curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt1rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wt1setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wtcbadd.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wtcbrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wtimer.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wtrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\libmf\source\wtstdby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031982 source:c:\its\amr\software\axem\aqua_nbfi\src\main.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<string.h>
+	"misc.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"water5.h"
+	"karat/k213.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\misc\slip.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"hal.h"
+	"easyax5043.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	<stdlib.h>
+	"rf.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\misc\time.c
+	<time.h>
+	"hal.h"
+	<libmfwtimer.h>
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\misc\vsprintf.c
+	<stdarg.h>
+	<string.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\misc\xtea.c
+	"xtea.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\misc\xtea.h
+	<libmftypes.h>
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\misc\zigzag.c
+	"zigzag.h"
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\misc\zigzag.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507130880 source:c:\its\amr\software\axem\aqua_nbfi\src\nbfi\nbfi.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"slip.h"
+	"hal.h"
+	<stdlib.h>
+	<libmfadc.h>
+
+1507031986 c:\its\amr\software\axem\aqua_nbfi\src\nbfi\rf.h
+	"nbfi.h"
+
+1507132758 source:c:\its\amr\software\axem\aqua_nbfi\src\nbfi\nbfi_config.c
+	"libmfflash.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"slip.h"
+	"hal.h"
+	"rf.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\nbfi\nbfi_misc.c
+	"nbfi.h"
+	"nbfi_config.h"
+	<stdlib.h>
+	"hal.h"
+	"slip.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\nbfi\nbfi_phy.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<stdlib.h>
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"zigzag.h"
+	"hal.h"
+
+1507031986 source:c:\its\amr\software\axem\aqua_nbfi\src\nbfi\rf.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"hal.h"
+	"misc.h"
+	"waviotdvk.h"
+	<libmfwtimer.h>
+
+1507634548 c:\its\amr\software\axem\aqua_nbfi\src\water5.h
+	"defines.h"
+
+1507129789 source:c:\its\amr\software\axem\aqua_nbfi\src\water5.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfflash.h>
+	<stdlib.h>
+	"misc.h"
+	"application.h"
+	"water5.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"hal.h"
+	"karat/k213.h"
+
+1507031984 c:\its\amr\software\axem\aqua_nbfi\src\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1507031982 source:c:\its\amr\software\axem\aqua_nbfi\src\hal\waviotdvk.c
+	"waviotdvk.h"
+	"hal.h"
+
+1507031982 c:\its\amr\software\axem\aqua_nbfi\src\hal\waviotdvk.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+
+1489677488 source:c:\its\amr\software\axem\aqua_nbfi\src\karat\driver.c
+	"driver.h"
+
+1499878706 c:\its\amr\software\axem\aqua_nbfi\src\karat\driver.h
+	"Karat213.h"
+	<libmftypes.h>
+
+1499878706 c:\its\amr\software\axem\aqua_nbfi\src\karat\karat213.h
+	<libmftypes.h>
+	"driver.h"
+
+1499869218 source:c:\its\amr\software\axem\aqua_nbfi\src\karat\karat213.c
+	"driver.h"
+	"driver.h"
+
+1499877885 c:\its\amr\software\axem\aqua_nbfi\src\k213.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1499878706 source:c:\its\amr\software\axem\aqua_nbfi\src\karat\driver.h
+	"Karat213.h"
+	<libmftypes.h>
+
+1505324294 source:c:\its\amr\software\axem\aqua_nbfi\src\karat\k213.c
+	<libmfwtimer.h>
+	"k213.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	<time.h>
+	<libmfflash.h>
+	"Karat213.h"
+	"water5.h"
+
+1507035766 c:\its\amr\software\axem\aqua_nbfi\src\karat\k213.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1530814166 source:c:\waviot\software\axem\aqua_nbfi\src\axradio\config_united.c
+	"easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"nbfi.h"
+	"rf.h"
+	"application.h"
+	"hal.h"
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\axradio\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\axradio\axradio.h
+	<libmftypes.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1530814166 c:\waviot\software\axem\aqua_nbfi\src\nbfi\nbfi.h
+	"defines.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	"easyax5043.h"
+	"axradio.h"
+	"misc.h"
+
+1530814916 c:\waviot\software\axem\aqua_nbfi\src\defines.h
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\axradio\misc.h
+	<libmftypes.h>
+	"axradio.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\nbfi\rf.h
+	"nbfi.h"
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\application.h
+	"defines.h"
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\hal\hal.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\axradio\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\axradio\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	"misc.h"
+	"axradio.h"
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\hal\hal.c
+	"hal.h"
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\hal\waviotdvk.c
+	"waviotdvk.h"
+	"hal.h"
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\hal\waviotdvk.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\karat\driver.c
+	"driver.h"
+
+1507031982 c:\waviot\software\axem\aqua_nbfi\src\karat\driver.h
+	"Karat213.h"
+	<libmftypes.h>
+
+1507031983 c:\waviot\software\axem\aqua_nbfi\src\karat\karat213.h
+	<libmftypes.h>
+	"driver.h"
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\karat\driver.h
+	"Karat213.h"
+	<libmftypes.h>
+
+1507031983 source:c:\waviot\software\axem\aqua_nbfi\src\karat\karat213.c
+	"driver.h"
+	"driver.h"
+
+1507031983 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansi.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansib.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansimsb.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc32ansimsbb.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc8ccittmsbb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc8onewireb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\crc8onewiremsbb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1init.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1rx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1rxbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1stop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1tx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1txbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1wrstr.c
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1wru16.c
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\builtsource\uart1wru32.c
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adccal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax8052.h
+	<axcompiler.h>
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfadc.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adccalg.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adccalt.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adcseoffs00.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adcseoffs01.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adcseoffs10.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adctemp.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\adcuncal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax5043rclkdis.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax8052f143.h
+	<axcompiler.h>
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfradio.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax5043rclkena.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\bch3121dec.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfbch.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\bch3121decp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\bch3121enc.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\bch3121encp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\bch3121stab.c
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\bch3121syn.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\chksgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\chksgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc32msbtable.c
+	"libmfcrc.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfcrc.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc32table.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc8.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc8b.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc8ccitt.c
+	"ax8052.h"
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc8ccittmsbtable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc8ccitttable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crc8msb.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crcccittmsbtable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\crcccitttable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\deepsleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\delay.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashcal.c
+	"ax8052.h"
+	"libmf.h"
+	"libmfflash.h"
+	"libmfcrc.h"
+	"libmfcalsector.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfdbglink.h
+	"libmftypes.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfflash.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfuart.h
+	"libmftypes.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfcalsector.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashpgerase.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashread.c
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashunlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashwait.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\flashwrite.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\fmemcpy.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\fmemset.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\graydec8.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\grayenc8.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\hweight16.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\hweight32.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\hweight8.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iorx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfuart0.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfuart1.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iorxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iotx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libaxlcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iotxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrhex16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wrnum.h
+	"libmftypes.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmflcd.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrhex32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrhexu16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrhexu32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrnum16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrnum32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowrstr.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowru16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\iowru32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdclear.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdclrdisp.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdinit.c
+	"ax8052.h"
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdsetpos.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdwrhexu16.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdwrhexu32.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdwrstr.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdwru16.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\lcdwru32.c
+	"libmflcd.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\offlpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfosc.h
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\offxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn15adv.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn15advtable.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn15out.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn15outtable.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn9.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn9bit.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn9bits.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn9buf.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn9byte.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\pn9table.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiocomminit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiodefs.h
+	"ax8052f131.h"
+	"ax8052f142.h"
+	"ax8052f143.h"
+	"ax8052f151.h"
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax8052f131.h
+	<axcompiler.h>
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax8052f142.h
+	<axcompiler.h>
+
+1507031985 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\ax8052f151.h
+	<axcompiler.h>
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiocommslpexit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiodeepsleep.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiodswakecore.c
+	"libmftypes.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiord16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiord24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiord32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiordfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radioreset.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiowr16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiowr24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiowr32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\radiowrfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\random.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\resetcpu.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\rev8.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\setupcal.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\setuplpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\setupxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\sgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\sgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\signext12.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\signext16.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\signext20.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\signext24.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\sleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\sleepcont.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\standby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\uartinit.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\uartstop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\uarttimer.c
+	"ax8052.h"
+	"libmfuart.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wrnum16.c
+	"wrnum.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wrnum32.c
+	"wrnum.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt01rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wtimer.h
+	"libmfwtimer.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\libmf\source\libmfwtimer.h
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt0adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt0addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt0curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt0rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt0setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt1adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt1addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt1curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt1rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wt1setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wtcbadd.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wtcbrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wtimer.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wtrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\libmf\source\wtstdby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031982 source:c:\waviot\software\axem\aqua_nbfi\src\main.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<string.h>
+	"misc.h"
+	"application.h"
+	"slip.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"water5.h"
+	"karat/k213.h"
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\misc\slip.h
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1530814166 c:\waviot\software\axem\aqua_nbfi\src\nbfi\nbfi_config.h
+	"defines.h"
+
+1530814166 c:\waviot\software\axem\aqua_nbfi\src\water5.h
+	"defines.h"
+
+1521445744 c:\waviot\software\axem\aqua_nbfi\src\karat\k213.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\misc\slip.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"hal.h"
+	"easyax5043.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"application.h"
+	"slip.h"
+	<stdlib.h>
+	"rf.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\misc\time.c
+	<time.h>
+	"hal.h"
+	<libmfwtimer.h>
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\misc\time.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"stdio.h"
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\misc\vsprintf.c
+	<stdarg.h>
+	<string.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\misc\xtea.c
+	"xtea.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\misc\xtea.h
+	<libmftypes.h>
+
+1507031986 source:c:\waviot\software\axem\aqua_nbfi\src\misc\zigzag.c
+	"zigzag.h"
+
+1507031986 c:\waviot\software\axem\aqua_nbfi\src\misc\zigzag.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1530814166 source:c:\waviot\software\axem\aqua_nbfi\src\nbfi\nbfi.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"slip.h"
+	"hal.h"
+	<stdlib.h>
+	<libmfadc.h>
+
+1507031984 c:\waviot\software\axem\aqua_nbfi\src\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1530814166 source:c:\waviot\software\axem\aqua_nbfi\src\nbfi\nbfi_config.c
+	"libmfflash.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"slip.h"
+	"hal.h"
+	"rf.h"
+
+1530812599 source:c:\waviot\software\axem\aqua_nbfi\src\nbfi\nbfi_misc.c
+	"nbfi.h"
+	"nbfi_config.h"
+	<stdlib.h>
+	"hal.h"
+	"slip.h"
+
+1530813423 source:c:\waviot\software\axem\aqua_nbfi\src\nbfi\nbfi_phy.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<stdlib.h>
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"zigzag.h"
+	"hal.h"
+
+1530813423 source:c:\waviot\software\axem\aqua_nbfi\src\nbfi\rf.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"hal.h"
+	"misc.h"
+	"waviotdvk.h"
+	<libmfwtimer.h>
+
+1507031982 source:c:\waviot\software\axem\bigtiffany_ax\src\axradio\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<libmfdbglink.h>
+
+1507031982 c:\waviot\software\axem\bigtiffany_ax\src\axradio\easyax5043.h
+	"axradio.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031982 c:\waviot\software\axem\bigtiffany_ax\src\axradio\axradio.h
+	<libmftypes.h>
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\ax8052f143.h
+	<axcompiler.h>
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\axcompiler.h
+	<stdbool.h>
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfcrc.h
+	"libmftypes.h"
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfradio.h
+	"libmftypes.h"
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfwtimer.h
+	"libmftypes.h"
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfdbglink.h
+	"libmftypes.h"
+
+1507031982 source:c:\waviot\software\axem\bigtiffany_ax\src\axradio\misc.c
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	"misc.h"
+	"axradio.h"
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\ax8052.h
+	<axcompiler.h>
+
+1507031982 c:\waviot\software\axem\bigtiffany_ax\src\axradio\misc.h
+	<libmftypes.h>
+	"axradio.h"
+
+1507031982 source:c:\waviot\software\axem\bigtiffany_ax\src\hal\hal.c
+	"hal.h"
+
+1507031982 c:\waviot\software\axem\bigtiffany_ax\src\hal\hal.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfuart.h>
+	<libmfuart1.h>
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfuart.h
+	"libmftypes.h"
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfuart1.h
+	"libmftypes.h"
+
+1507031983 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc32ansi.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc32ansib.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc32ansimsb.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc32ansimsbb.c
+	"libmfcrc.h"
+
+1507031983 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc8ccittmsbb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc8onewireb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\crc8onewiremsbb.c
+	"libmfcrc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1init.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1rx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1rxbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1stop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1tx.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1txbuf.c
+	"ax8052.h"
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1wrstr.c
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1wru16.c
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\builtsource\uart1wru32.c
+	"libmfuart1.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adccal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax8052.h
+	<axcompiler.h>
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfadc.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmftypes.h
+	<intrins.h>
+	<intrinsics.h>
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adccalg.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adccalt.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adcseoffs00.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adcseoffs01.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adcseoffs10.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adctemp.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031984 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\adcuncal.c
+	"ax8052.h"
+	"libmfadc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax5043rclkdis.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax8052f143.h
+	<axcompiler.h>
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfradio.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax5043rclkena.c
+	"ax8052f143.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\bch3121dec.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfbch.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\bch3121decp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\bch3121enc.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\bch3121encp.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\bch3121stab.c
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\bch3121syn.c
+	"ax8052.h"
+	"libmfbch.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\chksgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\chksgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc32msbtable.c
+	"libmfcrc.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfcrc.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc32table.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc8.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc8b.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc8ccitt.c
+	"ax8052.h"
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc8ccittmsbtable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc8ccitttable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crc8msb.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crcccittmsbtable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\crcccitttable.c
+	"libmfcrc.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\deepsleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\delay.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashcal.c
+	"ax8052.h"
+	"libmf.h"
+	"libmfflash.h"
+	"libmfcrc.h"
+	"libmfcalsector.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmf.h
+	"libmftypes.h"
+	"libmfdbglink.h"
+	"libmfcrc.h"
+	"libmfflash.h"
+	"libmfuart.h"
+	"libmfadc.h"
+	"libmfbch.h"
+	"libmfcalsector.h"
+	"libmfradio.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfdbglink.h
+	"libmftypes.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfflash.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfuart.h
+	"libmftypes.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfcalsector.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashpgerase.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashread.c
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashunlock.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashwait.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\flashwrite.c
+	"ax8052.h"
+	"libmfflash.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\fmemcpy.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\fmemset.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\graydec8.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\grayenc8.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\hweight16.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\hweight32.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\hweight8.c
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iorx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfuart0.h
+	"libmftypes.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfuart1.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iorxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iotx.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libaxlcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iotxbuf.c
+	"ax8052.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrhex16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wrnum.h
+	"libmftypes.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmflcd.h
+	"libmftypes.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrhex32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrhexu16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrhexu32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrnum16.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrnum32.c
+	"wrnum.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowrstr.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowru16.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\iowru32.c
+	"libmfuart0.h"
+	"libmfuart1.h"
+	"libmfdbglink.h"
+	"libmflcd2.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdclear.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdclrdisp.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdinit.c
+	"ax8052.h"
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdsetpos.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdwrhexu16.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdwrhexu32.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdwrstr.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdwru16.c
+	"libmflcd.h"
+
+1507031985 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\lcdwru32.c
+	"libmflcd.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\offlpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfosc.h
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\offxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn15adv.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn15advtable.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn15out.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn15outtable.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn9.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn9bit.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn9bits.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn9buf.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn9byte.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\pn9table.c
+	"libmfcrc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiocomminit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiodefs.h
+	"ax8052f131.h"
+	"ax8052f142.h"
+	"ax8052f143.h"
+	"ax8052f151.h"
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax8052f131.h
+	<axcompiler.h>
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax8052f142.h
+	<axcompiler.h>
+
+1507031985 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\ax8052f151.h
+	<axcompiler.h>
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiocommslpexit.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiodeepsleep.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiodswakecore.c
+	"libmftypes.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiord16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiord24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiord32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiordfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radioreset.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiowr16.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiowr24.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiowr32.c
+	"ax8052.h"
+	"libmftypes.h"
+	"libmfradio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\radiowrfifo.c
+	"libmftypes.h"
+	"libmfradio.h"
+	"radiodefs.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\random.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\resetcpu.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\rev8.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\setupcal.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\setuplpxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\setupxosc.c
+	"ax8052.h"
+	"libmfosc.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\sgnlim16.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\sgnlim32.c
+	"libmftypes.h"
+	<stdlib.h>
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\signext12.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\signext16.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\signext20.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\signext24.c
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\sleep.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\sleepcont.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\standby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\uartinit.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\uartstop.c
+	"ax8052.h"
+	"libmfuart.h"
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\uarttimer.c
+	"ax8052.h"
+	"libmfuart.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wrnum16.c
+	"wrnum.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wrnum32.c
+	"wrnum.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt01rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wtimer.h
+	"libmfwtimer.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\libmfwtimer.h
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt0adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt0addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt0curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt0rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt0setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt1adda.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt1addr.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt1curt.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt1rem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wt1setcfg.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wtcbadd.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wtcbrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wtimer.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wtrem.c
+	"ax8052.h"
+	"wtimer.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\libmf\source\wtstdby.c
+	"ax8052.h"
+	"libmftypes.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\misc\time.c
+	<time.h>
+	"hal.h"
+	<libmfwtimer.h>
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\misc\time.h
+	<ax8052f143.h>
+	<libmftypes.h>
+	"stdio.h"
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\misc\vsprintf.c
+	<stdarg.h>
+	<string.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\misc\xtea.c
+	"xtea.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\misc\xtea.h
+	<libmftypes.h>
+
+1507031986 source:c:\waviot\software\axem\bigtiffany_ax\src\misc\zigzag.c
+	"zigzag.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\misc\zigzag.h
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1531816802 source:c:\waviot\software\axem\bigtiffany_ax\src\application.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<libmfcrc.h>
+	"misc.h"
+	"defines.h"
+	"nbfi.h"
+	"application.h"
+	"hal.h"
+	"time.h"
+	"nbfi_config.h"
+	"water5.h"
+	"rf.h"
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfflash.h
+	"libmftypes.h"
+
+1531816802 c:\waviot\software\axem\bigtiffany_ax\src\defines.h
+
+1531816802 c:\waviot\software\axem\bigtiffany_ax\src\nbfi\nbfi.h
+	"defines.h"
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	"easyax5043.h"
+	"axradio.h"
+	"misc.h"
+
+1531816802 c:\waviot\software\axem\bigtiffany_ax\src\application.h
+	"defines.h"
+
+1531816802 c:\waviot\software\axem\bigtiffany_ax\src\nbfi\nbfi_config.h
+	"defines.h"
+
+1531816802 c:\waviot\software\axem\bigtiffany_ax\src\water5.h
+	"defines.h"
+
+1507031986 c:\waviot\software\axem\bigtiffany_ax\src\nbfi\rf.h
+	"nbfi.h"
+
+1531815092 source:c:\waviot\software\axem\bigtiffany_ax\src\axradio\config_united.c
+	"easyax5043.h"
+	<libmftypes.h>
+	<libmfcrc.h>
+	"nbfi.h"
+	"rf.h"
+	"application.h"
+	"hal.h"
+
+1531816802 source:c:\waviot\software\axem\bigtiffany_ax\src\main.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	<string.h>
+	"misc.h"
+	"application.h"
+	"hal.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"water5.h"
+
+1531816809 source:c:\waviot\software\axem\bigtiffany_ax\src\nbfi\nbfi.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"hal.h"
+	<stdlib.h>
+	<libmfadc.h>
+	<wtimer.h>
+
+1507031984 c:\waviot\software\axem\bigtiffany_ax\src\libmf\include\libmfadc.h
+	"libmftypes.h"
+
+1531816802 source:c:\waviot\software\axem\bigtiffany_ax\src\nbfi\nbfi_config.c
+	"libmfflash.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"hal.h"
+	"rf.h"
+
+1531816802 source:c:\waviot\software\axem\bigtiffany_ax\src\nbfi\nbfi_phy.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<stdlib.h>
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"xtea.h"
+	"zigzag.h"
+	"hal.h"
+
+1531816802 source:c:\waviot\software\axem\bigtiffany_ax\src\nbfi\rf.c
+	"nbfi.h"
+	"nbfi_config.h"
+	"rf.h"
+	"hal.h"
+	"misc.h"
+	<libmfwtimer.h>
+
+1531817132 source:c:\waviot\software\axem\bigtiffany_ax\src\water5.c
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libmfflash.h>
+	<stdlib.h>
+	"misc.h"
+	"application.h"
+	"water5.h"
+	"nbfi.h"
+	"nbfi_config.h"
+	"hal.h"
+
+1531817068 source:c:\waviot\software\axem\bigtiffany_ax\src\nbfi\nbfi_misc.c
+	"nbfi.h"
+	"nbfi_config.h"
+	<stdlib.h>
+	"hal.h"
+
